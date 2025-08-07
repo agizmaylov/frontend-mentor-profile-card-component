@@ -40,9 +40,6 @@ body {
     width: min(100%, 350px);
     margin: 1.5rem;
 
-    display: flex;
-    flex-direction: column;
-
     background-color: white;
     background-image: url("images/bg-pattern-card.svg");
     background-repeat: no-repeat;
@@ -61,7 +58,6 @@ body {
     margin-top: 87px;
     border: solid 5px white;
     border-radius: 50%;
-    align-self: center;
 }
 
 .name-age-location {
