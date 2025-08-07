@@ -8,8 +8,9 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: https://agizmaylov.github.io/frontend-mentor-solutions/profile-card-component
+- Solution URL: https://www.frontendmentor.io/solutions/profile-card-component-via-flexbox-bL8Q2hJX32
+- Live Site URL: https://agizmaylov.github.io/frontend-mentor-profile-card-component/
+- All solutions repo: https://github.com/agizmaylov/frontend-mentor-solutions
 
 ## Built with
 
