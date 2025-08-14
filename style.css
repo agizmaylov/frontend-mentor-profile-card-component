@@ -53,31 +53,31 @@ body {
     text-align: center;
 }
 
-.profile-photo {
+.profile-card__photo {
     width: 96px;
     height: 96px;
     border: solid 5px white;
     border-radius: 50%;
 }
 
-.name-age-location {
+.profile-card__header {
     margin-top: calc(1.3em - 5px);
     margin-bottom: 1.3em;
 }
 
 
-.name {
+.profile-card__name {
     display: inline;
     font-size: inherit;
     color: var(--color-dark-blue);
 }
 
-.age {
+.profile-card__age {
     margin-left: 0.3em;
     color: hsl(var(--color-gray-blue-hsl));
 }
 
-.location {
+.profile-card__location {
     margin-top: 0.56em;
     font-size: var(--font-medium);
     color: hsl(var(--color-gray-blue-hsl));
@@ -93,12 +93,12 @@ body {
     list-style-type: none;
 }
 
-.social-metric-counter {
+.social-metrics__counter {
     font-weight: bold;
     color: var(--color-dark-blue);
 }
 
-.social-metric-text {
+.social-metrics__text {
     margin-top: 0.4em;
     font-size: var(--font-small);
     color: hsl(var(--color-gray-blue-hsl));
