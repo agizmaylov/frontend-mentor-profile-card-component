@@ -39,6 +39,7 @@ body {
 .profile-card {
     width: min(100%, 350px);
     margin: 1.5rem;
+    padding-top: 87px;
 
     background-color: white;
     background-image: url("images/bg-pattern-card.svg");
@@ -55,7 +56,6 @@ body {
 .profile-photo {
     width: 96px;
     height: 96px;
-    margin-top: 87px;
     border: solid 5px white;
     border-radius: 50%;
 }
