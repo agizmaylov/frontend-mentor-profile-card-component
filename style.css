@@ -67,7 +67,8 @@ body {
 
 
 .name {
-    font-weight: bold;
+    display: inline;
+    font-size: inherit;
     color: var(--color-dark-blue);
 }
 
