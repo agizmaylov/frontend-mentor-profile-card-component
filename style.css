@@ -2,8 +2,8 @@
     font-family: "Kumbh Sans";
     src: local("Kumbh Sans"),
          local("KumbhSans"),
-         url("KumbhSans-VariableFont_YOPQ,wght.woff2") format(woff2) tech(variations),
-         url("KumbhSans-VariableFont_YOPQ,wght.woff2") format("woff2-variations");
+         url("assets/fonts/KumbhSans-VariableFont_YOPQ,wght.woff2") format(woff2) tech(variations),
+         url("assets/fonts/KumbhSans-VariableFont_YOPQ,wght.woff2") format("woff2-variations");
     font-weight: 100 900;
     font-style: normal;
     font-display: swap;
@@ -30,8 +30,8 @@ body {
     justify-content: center;
 
     background-color: var(--color-cyan);
-    background-image: url("images/bg-pattern-top.svg"),
-                      url("images/bg-pattern-bottom.svg");
+    background-image: url("assets/images/bg-pattern-top.svg"),
+                      url("assets/images/bg-pattern-bottom.svg");
     background-position: calc(50vw - 996px) calc(50vh - 900px),
                          50vw 50vh;
     background-repeat: no-repeat;
@@ -43,7 +43,7 @@ body {
     padding-top: 87px;
 
     background-color: white;
-    background-image: url("images/bg-pattern-card.svg");
+    background-image: url("assets/images/bg-pattern-card.svg");
     background-repeat: no-repeat;
 
     border-radius: 1rem;
