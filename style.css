@@ -1,6 +1,7 @@
 @font-face {
     font-family: "Kumbh Sans";
     src: local("Kumbh Sans"),
+         local("KumbhSans"),
          url("KumbhSans-VariableFont_YOPQ,wght.woff2") format(woff2) tech(variations),
          url("KumbhSans-VariableFont_YOPQ,wght.woff2") format("woff2-variations");
     font-weight: 100 900;
